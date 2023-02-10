@@ -11,5 +11,6 @@ public class Lab101 {
         int number1 = 100;
         int number2 = 200;
         System.out.println("Sum: " + (number1 + number2));
+        System.out.println("Changed too much");
     }
 }
